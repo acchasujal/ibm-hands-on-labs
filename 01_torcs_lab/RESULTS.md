@@ -1,2 +1,2 @@
-Copy this resutls file and paste it into your own repo to showcase your results! Lab results do not count towards your score you'll receive for your submission, but we encourage you to show off what you learned in the lab!
-# Add your experiment results and reflections here
+- Parameters changed: Set TARGET_SPEED / default_speed to 150.
+- Observations: Validated the rule-based loop structure. The vehicle successfully communicates with the simulator server, accelerating faster on straightaways but showing classic understeer drifting behavior during aggressive track cornering.
